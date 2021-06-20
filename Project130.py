@@ -11,4 +11,4 @@ del df ["Radius.1"]
 del df ["Unnamed: 0"]
 del df ["Unnamed: 6"]
 
-df.to_csv("cleaned_data.csv")
+df.to_csv("cleaned.csv")
